@@ -1,8 +1,8 @@
-cpp11_how_to_program -> 66 (102 of 1065)
+cpp11_how_to_program -> 67 (102 of 1065)
 
+c-program-design-including-data-structures.pdf -> 428 (479 of 1731)
 
-cpp_how_to_program_9ed -> 65 (99 of 1303)
+Estructura.de.datos.en.C++.Joyanes.pdf -> 72 / 640
 
-
-cppprogram -> 146 (195 of 1609)
+Deitel-C_ How to Program.pdf -> 554 (583 of 977)
 
